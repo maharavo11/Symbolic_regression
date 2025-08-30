@@ -36,7 +36,7 @@ To run this project, follow these steps:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/maharavo11/Symbolic_regression.git
-    cd symbolic-regression-dnns
+    cd Symbolic_regression
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
